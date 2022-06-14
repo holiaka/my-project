@@ -1,1 +1,4 @@
 Fourth file in second files
+
+
+This file was modificated in new-feature branch.
